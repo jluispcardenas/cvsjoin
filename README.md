@@ -11,7 +11,7 @@ cvsjoin [final file] [files...]
 
 ## Remarks
 
-Alternative to the tool:: http://csvkit.readthedocs.io/en/0.9.1/scripts/csvjoin.html
+Alternative to the tool: http://csvkit.readthedocs.io/en/0.9.1/scripts/csvjoin.html
 
 ## Licence 
 
