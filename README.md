@@ -1,12 +1,18 @@
 # cvsjoin
-Herramienta genérica para unir varios CSV uniendo sus cabeceras y poniendo un valor default a los que no cuenten con algún campo.
 
-## Uso
+Generic tool to join several **CSV**s by joining their headers and setting a default value to those that do not have a field.
+
+
+## Use
+
 ```bash
 cvsjoin [final file] [files...]
 ```
 
+## Remarks
 
-Resolviendo el problema de: http://csvkit.readthedocs.io/en/0.9.1/scripts/csvjoin.html
+Alternative to the tool:: http://csvkit.readthedocs.io/en/0.9.1/scripts/csvjoin.html
 
-En que tienes que especificar las columnas a unir.
+## Licence 
+
+This project is licensed under the MIT License 
